@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+# DATABASE_SERVICE_BASE_URL can be injected from app settings in Azure or env var
+#docker run -p 8081:8081 user-service:latest
