@@ -1,0 +1,5 @@
+# Copy to terraform.tfvars and edit:
+prefix = "msdemo"
+location = "Central India"
+acr_name = "youruniquenameacr123"  # << must be globally unique
+postgres_admin_password = "StrongP@sswordHere!"  # or pass as env var
